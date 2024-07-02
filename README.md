@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tijajoshi
-- 👀 I’m interested in: Python, AWS Serverless, ReactJS, ReactNative
-- 🌱 I’m currently learning: React Native
+- 👀 I’m interested in: Python, AWS/GCP Serverless, ReactJS, ReactNative
+- 🌱 I’m currently learning: NextJS
 - 💞️ I’m looking to collaborate on: interesting and worthwhile projects
 - 📫 How to reach me: drop me a note on git.
 
